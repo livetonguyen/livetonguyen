@@ -38,3 +38,29 @@ livetonguyen
 		</div>
 	</body>
 </html>
+.inside{
+    float: right;
+    border: 2px solid;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+}
+#full{
+    width: 100%;
+    float: left;
+}
+#bio{
+    width: 800px;
+    font-size: 20px;
+    float: left;
+}
+img{
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+    width: 400px;
+    height: 500px;
+}
+.head{
+    border: 2px solid;
+}
